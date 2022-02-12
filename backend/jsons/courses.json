@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Курс по JS",
+    "description": "Описание курса по JS",
+    "price": 60000
+  },
+  {
+    "name": "Курс по Java",
+    "description": "Описание курса по Java",
+    "price": 40000
+  },
+  {
+    "name": "Курс по Kotlin",
+    "description": "Описание курса по Kotlin",
+    "price": 80000
+  }
+]
